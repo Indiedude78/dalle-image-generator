@@ -1,0 +1,16 @@
+/*
+* Global CSS
+*
+*/
+
+/* CSS RESET */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: hsl(0, 7%, 14%);
+    color: hsl(0, 0%, 100%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
