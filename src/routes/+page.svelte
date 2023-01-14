@@ -40,7 +40,7 @@
 
 <div class="img-form-container">
 	<img
-		src="./../src/assets/images/ai.jpg"
+		src="/src/assets/images/ai.jpg"
 		alt="Ai neural connection"
 		class="ai-img"
 	/>
