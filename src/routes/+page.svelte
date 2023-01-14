@@ -40,7 +40,7 @@
 
 <div class="img-form-container">
 	<img
-		src="/src/assets/images/ai.jpg"
+		src="https://www.engineersgarage.com/wp-content/uploads/2021/11/TCH36-01-scaled.jpg"
 		alt="Ai neural connection"
 		class="ai-img"
 	/>
